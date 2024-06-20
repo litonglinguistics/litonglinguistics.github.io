@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="https://academicpages.github.io/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://academicpages.github.io/PROFILE2.png" class="floatpic" width="360" height="480">
 
 Hi! I'm Tong Li (Teresa, 李彤). 
 
