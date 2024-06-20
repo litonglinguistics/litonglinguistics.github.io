@@ -1,7 +1,7 @@
 ---
 title: "Prosodic Encoding of Mandarin Chinese Intonation by Uygur Speakers in Declarative and Interrogative Sentences"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2022-ISCSLP
 excerpt: 'Tong Li, Hui Feng & Yuan Jia.'
 date: 2022-12-01
 venue: 'Proceedings of 2022 13th ISCSLP (International Symposium on Chinese Spoken Language Processing)'
