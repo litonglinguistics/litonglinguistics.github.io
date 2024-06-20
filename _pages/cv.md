@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "[Current CV](http://litonglinguistics.github.io/files/Li Tong-Current CV.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,5 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
----
-[Current CV](http://litonglinguistics.github.io/files/Li Tong-Current CV.pdf)
+
