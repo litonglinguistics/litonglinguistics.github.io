@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<img src="https://academicpages.github.io/caihanlin.jpg" class="floatpic" width="360" height="480">
 
 Hi! I'm Tong Li (Teresa, 李彤). 
 
