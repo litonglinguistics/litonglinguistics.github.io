@@ -11,7 +11,7 @@ Part of results contributes to my master's thesis research
 Part of results contributes to my master's thesis research
 
 ## [L2 Acquisition of Sociolinguistic Variation](https://litonglinguistics.github.io/projects/project2_td)
-
+My undergrad research
 
 
 ## [Global TIMIT Mandarin Chinese-Dongbei Dialect and Jin Dialect](https://litonglinguistics.github.io/projects/project1_TIMIT)
