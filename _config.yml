@@ -21,7 +21,7 @@ repository               : "litonglinguistics/litonglinguistics.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "PROFILE.png"
   name             : "Tong Li"
   pronouns         : # example: "she/her"  
   bio              : "Incoming PhD Student"
