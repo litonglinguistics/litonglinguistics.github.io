@@ -11,7 +11,7 @@ redirect_from:
 
 Hi! I'm Tong Li (Teresa, 李彤). 
 
-I'm a prospective PhD student at Department of Chinese and Bilingual Studies, The HongKong Polytechnic University, supervised by [Prof. Yao Y](https://research.polyu.edu.hk/en/persons/yao-yao). 
+I'm an incoming PhD student at Department of Chinese and Bilingual Studies, The HongKong Polytechnic University, supervised by [Prof. Yao Y](https://research.polyu.edu.hk/en/persons/yao-yao). 
 
 My master's research focuses on L2 and L3 intonation aqcuisition. Currently, I'm particularly fascinated by the variability and invariability of prosody across tonal and non-tonal languages, as well as how those covaring prosodic cues contribute to our processing of tone and intonation. 
 
