@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="https://litonglinguistics.github.io/PROFILE2.png" class="floatpic" width="360" height="480">
+<img src="https://litonglinguistics.github.io/images/PROFILE2.png" class="floatpic" width="360" height="480">
 
 Hi! I'm Tong Li (Teresa, 李彤). 
 
