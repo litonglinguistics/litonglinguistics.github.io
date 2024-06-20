@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<img src="https://litonglinguistics.github.io/images/PROFILE2.png" class="floatpic" width="360" height="480">
 
 Hi! I'm Tong Li (Teresa, 李彤). 
 
@@ -22,4 +21,16 @@ My master's research focuses on L2 and L3 intonation aqcuisition. Currently, I'm
 
 - **Sep 2017 - June 2021:** Tianjin University (BA, English) 
 
-- **Sep 2019 - June 2021:** Tianjin University (BM, Construction Management) 
+- **Sep 2019 - June 2021:** Tianjin University (BM, Construction Management)
+
+## Research Interests
+- Interaction between tone and intonation
+- Syntax-prosody interface
+- Prosodic typology
+- Intonation acquisition
+
+## News
+- **July 2, 2024：** Glad to present my work at the poster session of SpeechProsody 2024
+- **March 2024：** Got a PhD offer from PolyU!
+- **June 2023：** My master's thesis won the Excellent Thesis Award (top 1 in the school)
+
