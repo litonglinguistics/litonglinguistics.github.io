@@ -11,6 +11,3 @@ My role: Lead-researcher
 
 This project...
 
-Heading 1
-======
-
