@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 ## [Cross-linguistic Influence on Intonation Acquisition](https://litonglinguistics.github.io/projects/project4_Cross-linguistic)
-Part of my master's thesis research
+Part of my master's thesis research <br>
 Be accepted by _Speech Prosody 2024_
 
 ## [Intonational Typology](https://litonglinguistics.github.io/projects/project3_Typology)
