@@ -14,9 +14,9 @@ I'm an incoming PhD student at Department of Chinese and Bilingual Studies, The 
 My master's research focuses on L2 and L3 intonation aqcuisition. Currently, I'm particularly fascinated by the variability and invariability of prosody across tonal and non-tonal languages, as well as how those covaring prosodic cues contribute to our processing of tone and intonation. 
 
 ## Research Interests
-- Interaction between tone and intonation
-- Syntax-prosody interface
+- Interactions between tone and intonation
 - Prosodic typology
+- Syntax-prosody interface
 - Intonation acquisition
 
 
