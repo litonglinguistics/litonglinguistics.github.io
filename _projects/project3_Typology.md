@@ -1,13 +1,11 @@
 ---
-title: "L2"
+title: "Intonational Typology"
 collection: projects
-type: "My role: Lead-researcher"
+type: "My role: student researcher"
 permalink: /projects/project3_Typology
-venue: "University 1, Department"
-date: 2024-12-01
 ---
 
-My role: Lead-researcher
+My role: student researcher
 
 This project...
 
