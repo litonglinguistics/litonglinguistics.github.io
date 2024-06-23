@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Tong Li (Teresa, 李彤). 
+
+Hi! I'm Tong Li. 
 
 I'm an incoming PhD student at Department of Chinese and Bilingual Studies, The Hong Kong Polytechnic University, supervised by [Prof. Yao Y](https://research.polyu.edu.hk/en/persons/yao-yao). 
 
