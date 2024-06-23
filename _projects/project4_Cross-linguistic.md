@@ -9,7 +9,7 @@ This project...
 
 ### Related works:
 
-**Li, T.** & Feng, H. (Accepted). Cross-linguistic Influence on Intonation Acquisition: A Study on the Production of L2 Mandarin and L3 English Intonations by Uyghur Speakers. _Speech Prosody 2024._
+**Li, T.** & [Feng, H](http://tjusfl.tju.edu.cn/info/1178/3038.htm). (Accepted). Cross-linguistic Influence on Intonation Acquisition: A Study on the Production of L2 Mandarin and L3 English Intonations by Uyghur Speakers. _Speech Prosody 2024._
 
 [**Supplementary materials for SP2024**](https://litonglinguistics.github.io/files/SupplementaryMaterialsSP2024.pdf )
 
