@@ -12,6 +12,6 @@ permalink: /projects/project4_Cross-linguistic
 
 [**Supplementary materials for SP2024**](https://litonglinguistics.github.io/files/SupplementaryMaterialsSP2024.pdf )
 
-[**Full paper**](https://litonglinguistics.github.io/files/Submisson41.pdf)
+[**Full paper**](https://litonglinguistics.github.io/files/Submission41.pdf)
 
 This project is a part of [the Project of Cultural Experts and “Four Batches” of Talents](http://paslab.phonetics.org.cn/?p=5468) directed by Aijun Li (the Key Laboratory of Linguistics, Chinese Academy of Social Sciences, No. 2024SYZH001).
