@@ -8,9 +8,6 @@ author_profile: true
 Part of my master's thesis research <br>
 Accepted by _Speech Prosody 2024_
 
-## [Intonational Typology](https://litonglinguistics.github.io/projects/project3_Typology)
-Part of my master's thesis research
-
 ## [L2 Acquisition of Sociolinguistic Variation](https://litonglinguistics.github.io/projects/project2_td)
 My undergrad research
 
