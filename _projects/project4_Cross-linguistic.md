@@ -1,11 +1,11 @@
-![image](https://github.com/litonglinguistics/litonglinguistics.github.io/assets/161997302/5b770b52-dfca-4ad2-894a-37be3b01db6a)---
+---
 title: "Cross-linguistic Influence on Intonation Acquisition"
 collection: projects
 type: "My role: Lead-researcher"
 permalink: /projects/project4_Cross-linguistic
 ---
-This project is a part of [the Project of Cultural Experts and “Four Batches” of Talents](http://paslab.phonetics.org.cn/?p=5468) directed by Aijun Li (the Key Laboratory of Linguistics, Chinese Academy of Social Sciences, No. 2024SYZH001).
 
+This project is a part of [the Project of Cultural Experts and “Four Batches” of Talents](http://paslab.phonetics.org.cn/?p=5468) directed by Aijun Li (the Key Laboratory of Linguistics, Chinese Academy of Social Sciences, No. 2024SYZH001).
 
 ### Related works:
 
