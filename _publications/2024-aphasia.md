@@ -6,6 +6,6 @@ excerpt: '[Cong Zhang](https://congzhang-linguist.github.io/), **Tong Li**, Gayl
 date: 2024-06-1
 venue: 'Interspeech 2024(Accepted)'
 paperurl: ''
-----
+---
 
 *Index Terms:* aphasia, stroke, prosody, classification, random forest
