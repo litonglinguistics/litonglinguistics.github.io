@@ -5,6 +5,8 @@ type: "My role: Lead-researcher"
 permalink: /projects/project4_Cross-linguistic
 ---
 
+This project is a part of [the Project of Cultural Experts and “Four Batches” of Talents](http://paslab.phonetics.org.cn/?p=5468) directed by Aijun Li (the Key Laboratory of Linguistics, Chinese Academy of Social Sciences, No. 2024SYZH001).
+
 
 ### Related articles:
 
@@ -14,4 +16,3 @@ permalink: /projects/project4_Cross-linguistic
 
 [**Full paper**](https://litonglinguistics.github.io/files/Submission41.pdf)
 
-This project is a part of [the Project of Cultural Experts and “Four Batches” of Talents](http://paslab.phonetics.org.cn/?p=5468) directed by Aijun Li (the Key Laboratory of Linguistics, Chinese Academy of Social Sciences, No. 2024SYZH001).
