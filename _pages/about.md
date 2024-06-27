@@ -30,7 +30,7 @@ My master's research focuses on L2 and L3 intonation aqcuisition. Currently, I'm
 
 
 ## News
-- **July 2, 2024：** Glad to present my work at the poster session of Speech Prosody 2024
-- **March 2024：** Got a PhD offer from PolyU!
-- **June 2023：** My master's thesis won the Excellent Thesis Award (top 1 in the school)
+- **July 2, 2024：** Glad to present my work at the poster session of Speech Prosody 2024.
+- **March 2024：** Received a PhD offer from PolyU.
+- **June 2023：** : Awarded the Excellent Thesis Award for my master’s thesis (ranked top 1 in the school). (top 1 in the school)
 
