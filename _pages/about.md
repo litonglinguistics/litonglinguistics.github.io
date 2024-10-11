@@ -22,7 +22,7 @@ My master's research focuses on L2 and L3 intonation aqcuisition. Currently, I'm
 
 
 ## Academic Background
-- **Sep 2024 - Future:** The Hong Kong Polytechnic University (Incoming PhD) <br>
+- **Sep 2024 - Future:** The Hong Kong Polytechnic University <br>
 - **Sep 2021 - June 2023:** Tianjin University (MA, Foreign Linguistics and Applied Linguistics) 
 - **Sep 2017 - June 2021:** Tianjin University (BA, English) 
 - **Sep 2019 - June 2021:** Tianjin University (BM, Construction Management)
