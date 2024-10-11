@@ -24,22 +24,22 @@ repository               : "litonglinguistics/litonglinguistics.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "PROFILE.png"
+  avatar           : "PROFILE.jpg"
   name             : "Tong Li"
   pronouns         : # example: "she/her"  
-  bio              : "Incoming PhD Student"
+  bio              : "PhD candidate"
   location         : "China"
-  employer         : Tianjin University
+  employer         : Hong Kong Polytechnic University
   uri              : # URL
-  email            : "litong_lt@tju.edu.cn" 
+  email            : "tongtanya.li@connect.polyu.hk, litong_lt@tju.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : 
+  googlescholar    : https://scholar.google.com.hk/citations?hl=zh-CN&user=ZxNMzfUAAAAJ&view_op=list_works&sortby=pubdate
   impactstory      : # URL
   orcid            : https://orcid.org/0009-0002-1174-4673
   pubmed           : 
-  researchgate     : # URL
+  researchgate     : https://www.researchgate.net/profile/Tong_Li168
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
