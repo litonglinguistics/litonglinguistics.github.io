@@ -30,6 +30,6 @@ My master's research focuses on L2 and L3 intonation aqcuisition. Currently, I'm
 
 
 ## News
-- **July, 2024：** Presented my work at the poster session of Speech Prosody 2024.
+- **July 2024：** Presented my work at the poster session of Speech Prosody 2024.
 - **June 2023：** Awarded the Excellent Thesis Award for my master’s thesis (ranked top 1 in the department).
 
