@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I'm Tong Li. 
 
-I'm an incoming PhD student at Department of Chinese and Bilingual Studies, The Hong Kong Polytechnic University, supervised by [Prof. Yao Y](https://research.polyu.edu.hk/en/persons/yao-yao). 
+I'm a PhD candidate at Department of Chinese and Bilingual Studies, Hong Kong Polytechnic University, supervised by [Prof. Yao Y](https://research.polyu.edu.hk/en/persons/yao-yao). 
 
 My master's research focuses on L2 and L3 intonation aqcuisition. Currently, I'm particularly fascinated by the variability and invariability of prosody across tonal and non-tonal languages, as well as how those covaring prosodic cues contribute to our processing of tone and intonation. 
 
@@ -31,6 +31,5 @@ My master's research focuses on L2 and L3 intonation aqcuisition. Currently, I'm
 
 ## News
 - **July, 2024：** Presented my work at the poster session of Speech Prosody 2024.
-- **March 2024：** Received a PhD offer from PolyU.
-- **June 2023：** Awarded the Excellent Thesis Award for my master’s thesis (ranked top 1 in the school). (top 1 in the school)
+- **June 2023：** Awarded the Excellent Thesis Award for my master’s thesis (ranked top 1 in the department).
 
