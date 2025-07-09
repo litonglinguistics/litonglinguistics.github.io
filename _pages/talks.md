@@ -8,7 +8,7 @@ author_profile: true
 
 - May, 2025
 
-  **Production evidence for the perceptual asymmetry of Mandarin question and statement intonations** (Oral)<br>**Tong Li**, Yao Yao. <br> _ _The 3rd International Conference on Tone and Intonation 2025 (_[TAI2025](https://www.tai2025.org/)_), Herrsching, Germany.
+  **Production evidence for the perceptual asymmetry of Mandarin question and statement intonations** (Oral)<br>**Tong Li**, Yao Yao. <br> _ _The 3rd International Conference on Tone and Intonation 2025 (_[TAI2025](https://www.tai2025.org/)), Herrsching, Germany.
 
 - July, 2024
 
